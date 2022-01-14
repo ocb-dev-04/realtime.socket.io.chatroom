@@ -1,0 +1,24 @@
+{
+  "name": "realtime.socket.io.chatroom",
+  "version": "1.0.0",
+  "description": "An real time socket to chat rooms",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocb-dev-04/realtime.socket.io.chatroom.git"
+  },
+  "author": "Oscar Chavez B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ocb-dev-04/realtime.socket.io.chatroom/issues"
+  },
+  "homepage": "https://github.com/ocb-dev-04/realtime.socket.io.chatroom#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "moment": "^2.29.1",
+    "socket.io": "^4.4.1"
+  }
+}
